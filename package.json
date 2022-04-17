@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator-columbia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmare29/portfolio-generator-columbia.git"
+  },
+  "author": "jpmare29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmare29/portfolio-generator-columbia/issues"
+  },
+  "homepage": "https://github.com/jpmare29/portfolio-generator-columbia#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
